@@ -1,0 +1,38 @@
+﻿[
+    {
+        "taskid":1,
+        "tasktext":"Р1_УР_Февраль-Февраль_2021_v301",
+        "stateName":"Тест КП",
+        "brand":{
+            "taskText":""
+        },
+        "reklamodatel":{
+            "reklamodatelId":11,
+            "reklamodatelText":"Банкрот"
+        },
+        "broadcast":{
+            "taskid":111,
+            "program":"ТЕСТОВЫЙ КАНАЛ",
+            "from":"2021-02-01",
+            "to":"2021-02-28"
+        }
+    },
+    {
+        "taskid":2,
+        "tasktext":"Р1_УР_МП ДМ_ПрА_УМ_Апрель-Апрель_2021_",
+        "stateName":"Согласование с клиентом",
+        "brand":{
+            "taskText":""
+        },
+        "reklamodatel":{
+            "reklamodatelId":22,
+            "reklamodatelText":"Тест текст"
+        },
+        "broadcast":{
+            "taskid":222,
+            "program":"Украина новости",
+            "from":"2021-04-01",
+            "to":"2021-04-30"
+        }
+    }
+]

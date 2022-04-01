@@ -1,0 +1,48 @@
+{
+   "data":{
+      "userId":2110,
+      "isAdmin":true,
+      "groups":[
+         {
+            "id":1,
+            "description":"Administrators",
+            "typeId":1,
+            "code":"GOD",
+            "customerId":1,
+            "adSid":null,
+            "details":"",
+            "domain":null
+         },
+         {
+            "id":2,
+            "description":"Users",
+            "typeId":1,
+            "code":"Users",
+            "customerId":1,
+            "adSid":null,
+            "details":null,
+            "domain":null
+         },
+         {
+            "id":940,
+            "description":"Все пользователи",
+            "typeId":4,
+            "code":null,
+            "customerId":1,
+            "adSid":null,
+            "details":"В данной группе содержатся все активные учетные записи.",
+            "domain":null
+         },
+         {
+            "id":941,
+            "description":"test",
+            "typeId":1,
+            "code":null,
+            "customerId":1,
+            "adSid":null,
+            "details":"",
+            "domain":null
+         }
+      ]
+   }
+}

@@ -1,0 +1,65 @@
+[
+   {
+      "taskid":589,
+      "broadcast":446,
+      "description":"Сериал - 1 750 000,00 - Пн-Пт",
+      "name":"Сериал",
+      "day":"Пн-Пт",
+      "time":"15:00",
+      "isNotRecommended":0
+   },
+   {
+      "taskid":594,
+      "broadcast":464,
+      "description":"Юмористический концерт - 100 000,00 - Пт",
+      "name":"Юмористический концерт",
+      "day":"Пт",
+      "time":"21:00\/21:30",
+      "isNotRecommended":0
+   },
+   {
+      "taskid":599,
+      "broadcast":472,
+      "description":"Вечер - 2 000 000,00 - Сб",
+      "name":"Вечер \/ Пригласите на свадьбу",
+      "day":"Сб",
+      "time":"16:00",
+      "isNotRecommended":0
+   },
+   {
+      "taskid":601,
+      "broadcast":2872,
+      "description":"Утренняя передача (5:00-6:00) - 5 700 000,00 - Вс",
+      "name":"Утренняя передача (5:00-6:00)",
+      "day":"Вс",
+      "time":"16:00",
+      "isNotRecommended":0
+   },
+   {
+      "taskid":607,
+      "broadcast":2844,
+      "description":"Юмористическая программа - 3&nbsp;200&nbsp;000,00 - Сб\/Вс",
+      "name":"Юмористическая программа",
+      "day":"Сб\/Вс",
+      "time":"11:30",
+      "isNotRecommended":0
+   },
+   {
+      "taskid":2847,
+      "broadcast":2844,
+      "description":"Юмористическая программа - 500 000,00 - Пт",
+      "name":"Юмористическая программа",
+      "day":"Пт",
+      "time":"23:00\/ 23:20",
+      "isNotRecommended":0
+   },
+   {
+      "taskid":2849,
+      "broadcast":2848,
+      "description":"Выход в люди - 2 500 000,00 - Пт",
+      "name":"Выход в люди",
+      "day":"Пт",
+      "time":"23:00\/ 23:20",
+      "isNotRecommended":0
+   }
+]

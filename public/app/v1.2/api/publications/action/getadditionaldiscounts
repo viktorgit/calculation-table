@@ -1,0 +1,20 @@
+[
+   {
+      "taskid":1,
+      "description":"За гибкость бюджета между месяцами",
+      "comment":"",
+      "applyOrder":1,
+      "feature":"процентная",
+      "percentageAmount":"3",
+      "absoluteAmount":null
+   },
+   {
+      "taskid":2,
+      "description":"За гибкость бюджета между программами",
+      "comment":"",
+      "applyOrder":1,
+      "feature":"процентная",
+      "percentageAmount":"3",
+      "absoluteAmount":null
+   },
+]
